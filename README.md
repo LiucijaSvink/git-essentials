@@ -1,4 +1,4 @@
 # git-essentials
 ## Deployment notes
+git for everybody
 
-## Staging notes
