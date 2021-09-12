@@ -5,4 +5,4 @@ Created on Sat Sep 11 19:14:53 2021
 @author: Liucija Svinkunaite
 """
 
-var -= 0
+var = 0
